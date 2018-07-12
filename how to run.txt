@@ -1,0 +1,19 @@
+step 1   Install Python3 and matplotlib
+
+step 2   RSA scheme - receiver_rsa.py acts as server
+                                     Blind_rsa.py acts as client
+
+step 3   Elgamal scheme - Bank_server.py acts as server
+                                           Alice_clinet.py acts as client
+
+
+step 4   When you are going to compare both scheme using file samples. First delete chaum.txt and proposed.txt.
+
+If you go with file input option , run RSA scheme and ElGamal scheme both for sample1,sample2,sample3,sample4 and sample5 respectively and compare both scheme for these samples. It will again create chaum.txt and proposed.txt which contain execution time for each samples.
+
+chaum.txt - contains execution time for each samples (based on RSA scheme)
+proposed.txt - contains execution time for each samples (based on Elgamal scheme)
+
+Do not change the sequence of samples for the both scheme.
+
+step 5  run compare.py
