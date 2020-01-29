@@ -9,7 +9,9 @@ step 3   Elgamal scheme - Bank_server.py acts as server
 
 step 4   When you are going to compare both scheme using file samples. First delete chaum.txt and proposed.txt.
 
-If you go with file input option , run RSA scheme and ElGamal scheme both for sample1,sample2,sample3,sample4 and sample5 respectively and compare both scheme for these samples. It will again create chaum.txt and proposed.txt which contain execution time for each samples.
+If you go with file input option , run RSA scheme and ElGamal scheme both for sample1,sample2,sample3,sample4 
+and sample5 respectively and compare both scheme for these samples. It will again create chaum.txt and proposed.txt
+which contain execution time for each samples.
 
 chaum.txt - contains execution time for each samples (based on RSA scheme)
 proposed.txt - contains execution time for each samples (based on Elgamal scheme)
